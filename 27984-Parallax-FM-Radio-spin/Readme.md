@@ -1,12 +1,12 @@
-───────────────────────────────────────
-Parallax Propeller Chip Project Archive
-───────────────────────────────────────
+───────────────────────────────────────  
+Parallax Propeller Chip Project Archive  
+───────────────────────────────────────  
 
- Project :  "ParallaxFMRadio_Spin"
+ Project :  "ParallaxFMRadio_Spin"  
 
-Archived :  Wednesday, April 27, 2011 at 9:50:59 AM
+Archived :  Wednesday, April 27, 2011 at 9:50:59 AM  
 
-    Tool :  Propeller Tool version 1.2.7
+    Tool :  Propeller Tool version 1.2.7  
 
 
             ParallaxFMRadio_Spin.spin
@@ -22,8 +22,8 @@ Archived :  Wednesday, April 27, 2011 at 9:50:59 AM
                    └──MiniI2C.spin
 
 
-────────────────────
-Parallax, Inc.
-www.parallax.com
-support@parallax.com
-USA 916.624.8333
+────────────────────  
+Parallax, Inc.  
+www.parallax.com  
+support@parallax.com  
+USA 916.624.8333  
